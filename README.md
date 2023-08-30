@@ -1,1 +1,1 @@
-# TWSIP_Snake-Console-Game
+git rm README.md
